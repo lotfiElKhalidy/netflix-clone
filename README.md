@@ -1,8 +1,8 @@
-# Netflix Clone built using React, Redux Toolkit, Firebase, Styled Components, Axios, Node.js, Express and MongoDB.
+# Netflix Clone App
 
 ## Steps to Start the App
 
 + Install React Dependencies
-+ Instal Node Dependencies
++ Instal Node Dependencies `npm install`
 + Start Node App
-+ Start React App
++ Start React App `npm run start`
